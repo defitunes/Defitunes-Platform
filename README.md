@@ -8,7 +8,7 @@ Key Features of the Platform:
 	4.	Membership and management via Solana wallets.
 	5.	Artist merchandise sales.
 	6.	Ticket sales for concerts and artistic events.
-More details: https://www.defitunes.com
+More details:www.defitunes.com
 PNRT Token:
 The PNRT token is part of the Defitunes ecosystem. It is built on the Binance Smart Chain (BSC) and is used to reward participants and enhance user engagement within our ecosystem.
 More details: www.persianraptoken.com
